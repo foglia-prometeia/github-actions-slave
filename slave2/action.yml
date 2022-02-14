@@ -1,6 +1,6 @@
-name: 'Action Slave 1'
+name: 'Action Slave 2'
 runs:
   using: "composite"
   steps:
-    - run: echo Action Slave 1
+    - run: echo Action Slave 2
       shell: bash
