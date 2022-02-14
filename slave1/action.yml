@@ -1,0 +1,6 @@
+name: 'Action Slave 1'
+runs:
+  using: "composite"
+  steps:
+    - run: echo Action Slave 1
+      shell: bash
